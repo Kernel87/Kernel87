@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im currently working on company<br>Im currently learning devops
+Im currently working on company<br>Im currently learning devops,
+I like techno Drumcode4life
 
 
 ## 🌐 Socials:
